@@ -15,34 +15,80 @@
 🔥 Strong expertise in **JavaScript, React, Node.js, MongoDB, and DSA**.  
 ⚡ Always striving to write **clean, maintainable, and high-performance code**.  
 
----
+<!-- Add this in your README.md file -->
 
-## 🛠️ Tech Stack & Skills  
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
+
+---
 
 ### 🚀 Frontend  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" alt="Frontend Tech Stack" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs" alt="Frontend" />
+</div>
 
-### 🛠 Backend  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Tech Stack" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=500&lines=Building+UI+with+React+%26+Next.js;Styling+with+Tailwind+CSS;Modern+JavaScript+(ES6%2B);Vanilla+JS+Frontend+Projects" alt="Typing SVG" />
+</div>
 
-### 🗄️ Databases  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database Tech Stack" />
-</p>
-
-### 🛠️ Version Control & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control Tools" />
-</p>
-
-### 💡 Problem Solving  
-✅ **1000+ DSA Problems** solved across **arrays, linked lists, stacks, recursion, BST, dynamic programming, and more**!  
 
 ---
+
+### ⚙️ Backend  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" alt="Backend" />
+</div>
+
+- 🔧 REST API development with **Node.js**, **Express.js**  
+- 🐍 API building with **Python (Flask / FastAPI)**  
+- 🔐 Auth, routing, middleware, backend logic
+
+---
+
+### 🗄️ Databases  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
+</div>
+
+- 🍃 NoSQL: **MongoDB** using **Mongoose ODM**  
+- 🧮 SQL: **MySQL**, joins, constraints, indexing  
+- 📊 Writing efficient queries and schemas
+
+---
+
+### 🧰 Tools & Version Control  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
+</div>
+
+- 🛠️ **Git**, **GitHub** for VCS and collaboration  
+- 🔎 **Postman** for testing APIs  
+- ⚡ **VS Code**, DevTools for debugging and rapid dev
+
+---
+
+### 💡 Problem Solving & DSA  
+> 🧠 **1000+ DSA problems solved**
+
+- 📚 Strong in: `Arrays`, `Linked Lists`, `Stacks`, `Graphs`, `Recursion`, `Trees`, `DP`  
+- 🧩 Optimization and problem-solving mindset  
+- 🏆 **GATE Qualified**, **Hackathon Winner**, **B.Tech Topper**  
+- 🧠 Active on: **LeetCode**, **GFG**, **Codeforces**, etc.
+
+---
+
+### 🔥 Bonus Skills  
+- 💬 Clear communication & documentation  
+- 🧠 Fast learner, growth-focused  
+- ⚙️ Hands-on with **API Integrations**, **Third-party SDKs**, **Deployment Tools**
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Always+Learning.+Always+Building.;Let's+build+something+amazing." alt="Typing SVG" />
+</div>
+
+
+
 
 ## 🌟 What I'm Exploring Right Now  
 🚀 **Advanced React** – state management, performance tuning, component reusability  
@@ -50,28 +96,62 @@
 🌍 **New Web Tech** – keeping up with cutting-edge trends in the dev world  
 
 ---
+## 📊✨ My GitHub Stats
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VanshNigam&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VanshNigam&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+  <!-- 🔥 Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=VanshNigam&theme=tokyonight&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" 
+       alt="GitHub Streak" 
+       width="500" />
+  
+  <br><br>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VanshNigam&theme=tokyonight&column=7" alt="Trophies" />
-</p>
+  <!-- ⭐ GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=VanshNigam&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&border_radius=10" 
+       alt="GitHub Stats" 
+       width="500" />
+  
+  <br><br>
+
+  <!-- 🏆 GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=VanshNigam&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" 
+       alt="GitHub Trophies" 
+       width="100%" />
+
+</div>
 
 ---
 
-## 📬 Let's Connect  
-💌 **Email**: [VANSHNIGAM8081432513@GMAIL.COM](mailto:VANSHNIGAM8081432513@GMAIL.COM)  
-🔗 **LinkedIn**: [Vansh Nigam](https://www.linkedin.com/in/vansh-nigam-926302250/)  
-💻 **GitHub**: [@VanshNigam](https://github.com/VanshNigam)  
 
-🚀 **Let's build something extraordinary together!**  
+
+## 📬 Let's Connect
+
+<div align="center">
+
+  <a href="mailto:VANSHNIGAM8081432513@GMAIL.COM">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  
+  &nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/vansh-nigam-926302250/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  
+  &nbsp;&nbsp;
+
+  <a href="https://github.com/VanshNigam" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+
+  <br><br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Let's+build+something+extraordinary+together!" alt="Typing SVG" />
+
+</div>
+
+  
 
 ---
 
