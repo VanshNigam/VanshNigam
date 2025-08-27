@@ -1,14 +1,20 @@
-<h1 align="center">Hey there, I'm Vansh Nigam! 👋🚀</h1>
+<h1 align="center">
+  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%">
+  <span>Hey there, I'm Vansh Nigam! 👋</span>
+  <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%">
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F79327&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;Problem+Solver+%7C+MERN+Stack+Enthusiast;1000%2B+DSA+Problems+Solved;Always+Learning%2C+Always+Building!">
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F79327&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+Vansh+Nigam+👋;Aspiring+Software+Developer;Problem+Solver+%7C+MERN+Stack+Enthusiast;1000%2B+DSA+Problems+Solved;Always+Learning%2C+Always+Building!" />
+</div>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
 ---
+
 
 ## 🚀 About Me  
 ✨ Passionate about crafting **scalable web applications** and **solving complex coding problems**.  
@@ -21,9 +27,9 @@
 
 ---
 
-### 🚀 Frontend  
+### 🎨 Frontend  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,sass,redux" />
 </div>
 
 <div align="center">
@@ -38,10 +44,11 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,python" alt="Backend" />
 </div>
 
+<!--
 - 🔧 REST API development with **Node.js**, **Express.js**  
 - 🐍 API building with **Python (Flask / FastAPI)**  
 - 🔐 Auth, routing, middleware, backend logic
-
+-->
 ---
 
 ### 🗄️ Databases  
@@ -49,21 +56,23 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
 </div>
 
+<!--
 - 🍃 NoSQL: **MongoDB** using **Mongoose ODM**  
 - 🧮 SQL: **MySQL**, joins, constraints, indexing  
 - 📊 Writing efficient queries and schemas
-
+-->
 ---
 
 ### 🧰 Tools & Version Control  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Tools" />
 </div>
 
+<!--
 - 🛠️ **Git**, **GitHub** for VCS and collaboration  
 - 🔎 **Postman** for testing APIs  
 - ⚡ **VS Code**, DevTools for debugging and rapid dev
-
+-->
 ---
 
 ### 💡 Problem Solving & DSA  
